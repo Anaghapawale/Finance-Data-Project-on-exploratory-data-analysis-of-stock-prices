@@ -1,1 +1,1 @@
-# Finance-Data-Project-on-exploratory-data-analysis-of-stock-prices-
+# Finance-Data-Project-on-exploratory-data-analysis-of-stock-prices
